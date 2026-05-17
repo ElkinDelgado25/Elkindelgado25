@@ -68,9 +68,6 @@
 </div>
 
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
-
-
 ### 🗃 &nbsp;Databases
 <div align="center">
   <table>
@@ -145,5 +142,7 @@
       </td>
     </tr>
   </table>
+
+  <img align="center" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 </div>
 

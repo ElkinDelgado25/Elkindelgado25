@@ -54,8 +54,20 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logoColor=white" alt="TypeScript" />
   <br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42" alt="linux logo" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="42" alt="azure logo" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42" alt="docker logo" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="42" alt="nextjs logo" />
   <br>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logoColor=black" alt="Linux" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logoColor=white" alt="Azure" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logoColor=white" alt="Docker" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logoColor=white" alt="Next.js" />
 </div>
 
 
@@ -68,6 +80,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42" alt="mysql logo" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="42" alt="supabase logo" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="42" alt="mongodb logo" />
   <br>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logoColor=white" alt="Microsoft SQL Server" />
   &nbsp;
@@ -76,6 +90,8 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logoColor=white" alt="MySQL" />
   &nbsp;
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logoColor=white" alt="Supabase" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logoColor=white" alt="MongoDB" />
 </div>
 
 
@@ -86,41 +102,37 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="42" alt="github logo" />
   &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="42" alt="gitlab logo" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" alt="visual studio code logo" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="42" alt="eclipse logo" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/brave/FB542B" height="42" alt="brave logo" />
   <br>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logoColor=white" alt="Git" />
   &nbsp;
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logoColor=white" alt="GitHub" />
   &nbsp;
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logoColor=white" alt="GitLab" />
+  &nbsp;
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logoColor=white" alt="Visual Studio Code" />
   &nbsp;
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logoColor=white" alt="Eclipse" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Brave-FB542B?style=flat&logoColor=white" alt="Brave" />
   <br><br>
   <img src="https://cdn.simpleicons.org/notion/000000" height="42" alt="notion logo" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/adobe/FF0000" height="42" alt="adobe logo" />
+  <img src="https://cdn.simpleicons.org/cursor/000000" height="42" alt="cursor logo" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="42" alt="canva logo" />
+  <img src="https://cdn.simpleicons.org/openai/412991" height="42" alt="codex logo" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/notepadplusplus/90E59A" height="42" alt="notepad++ logo" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="42" alt="markdown logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="42" alt="android studio logo" />
   <br>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logoColor=white" alt="Notion" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Adobe-FF0000?style=flat&logoColor=white" alt="Adobe" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=flat&logoColor=white" alt="Cursor" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/Codex-412991?style=flat&logoColor=white" alt="Codex" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Notepad++-90E59A?style=flat&logoColor=black" alt="Notepad++" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logoColor=white" alt="Markdown" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logoColor=white" alt="Android Studio" />
 </div>
 
 <div>

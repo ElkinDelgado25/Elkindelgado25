@@ -121,6 +121,10 @@
   <img src="https://img.shields.io/badge/Notepad++-90E59A?style=flat&logoColor=black" alt="Notepad++" />
   &nbsp;
   <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logoColor=white" alt="Markdown" />
+</div>
 
-  <img align="center" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+<div>
+  <p align="center"> 
+    <img align="center" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" /> 
+  </p>
 </div>

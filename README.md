@@ -130,8 +130,6 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Cursor-000000?style=flat&logoColor=white" alt="Cursor" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Codex-412991?style=flat&logoColor=white" alt="Codex" />
-  &nbsp;
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logoColor=white" alt="Android Studio" />
 </div>
 

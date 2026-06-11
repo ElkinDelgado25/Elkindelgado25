@@ -122,8 +122,6 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/cursor/000000" height="42" alt="cursor logo" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/openai/412991" height="42" alt="codex logo" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="42" alt="android studio logo" />
   <br>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logoColor=white" alt="Notion" />

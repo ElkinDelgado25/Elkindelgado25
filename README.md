@@ -22,12 +22,12 @@
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/ElkinDelgado25/Moodle_Homework_assignment"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-card-moodle-dark.svg" /><img src="./assets/project-card-moodle-light.svg" width="420" alt="Moodle MCP — Conecta Moodle con un agente para consultar tareas y preparar documentos. Ver repositorio." /></picture></a>
+  <a href="https://github.com/ElkinDelgado25/Moodle_Homework_assignment"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-card-moodle-dark.svg" /><img src="./assets/project-card-moodle-light.svg" width="370" alt="Moodle MCP — Conecta Moodle con un agente para consultar tareas y preparar documentos. Ver repositorio." /></picture></a>
   &nbsp;
-  <a href="https://github.com/ElkinDelgado25/Bot_Rosetta_Stone"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-card-rosetta-dark.svg" /><img src="./assets/project-card-rosetta-light.svg" width="420" alt="Rosetta Stone Bot — Bot en Python para gestionar el seguimiento de lecciones. Ver repositorio." /></picture></a>
+  <a href="https://github.com/ElkinDelgado25/Bot_Rosetta_Stone"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-card-rosetta-dark.svg" /><img src="./assets/project-card-rosetta-light.svg" width="370" alt="Rosetta Stone Bot — Bot en Python para gestionar el seguimiento de lecciones. Ver repositorio." /></picture></a>
 </p>
 <p align="center">
-  <a href="https://github.com/ElkinDelgado25/Matriculacion_Xisce_Uleam"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-card-matricula-dark.svg" /><img src="./assets/project-card-matricula-light.svg" width="420" alt="Matriculación XISCE ULEAM — Panel local para vigilar cupos y ejecutar matrículas. Ver repositorio." /></picture></a>
+  <a href="https://github.com/ElkinDelgado25/Matriculacion_Xisce_Uleam"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-card-matricula-dark.svg" /><img src="./assets/project-card-matricula-light.svg" width="370" alt="Matriculación XISCE ULEAM — Panel local para vigilar cupos y ejecutar matrículas. Ver repositorio." /></picture></a>
   &nbsp;
-  <a href="https://github.com/Erickelrojo-22/campus-quest-app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-card-campus-dark.svg" /><img src="./assets/project-card-campus-light.svg" width="420" alt="Campus Quest — App Android de misiones de campus con QR, puntos e insignias. Ver repositorio." /></picture></a>
+  <a href="https://github.com/Erickelrojo-22/campus-quest-app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-card-campus-dark.svg" /><img src="./assets/project-card-campus-light.svg" width="370" alt="Campus Quest — App Android de misiones de campus con QR, puntos e insignias. Ver repositorio." /></picture></a>
 </p>

@@ -16,39 +16,67 @@
   </tr>
 </table>
 
-## Languages & Frameworks
+<table width="840">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Languages &amp; Frameworks</h3>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" /> &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" /> &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" /> &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" /> &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /> &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin" /> &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" alt="Go" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>Databases</h3>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" height="40" alt="SQL Server" /> &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" /> &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Tools</h3>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" /> &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40" alt="GitLab" /> &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" /> &nbsp;
+      <img src="https://cdn.simpleicons.org/cursor/6E40C9" width="40" height="40" alt="Cursor" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>Cloud</h3>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="40" alt="AWS" /> &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="Google Cloud" /> &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle Cloud" />
+    </td>
+  </tr>
+</table>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" alt="Go" />
-</p>
+## Featured Projects
 
-## Databases
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" height="40" alt="SQL Server" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle" />
-</p>
-
-## Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40" alt="GitLab" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/cursor/6E40C9" width="40" height="40" alt="Cursor" />
-</p>
-
-## Cloud
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="40" alt="AWS" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="Google Cloud" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle Cloud" />
-</p>
+<table width="840">
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ElkinDelgado25/EduPlain_Backend">EduPlain</a></h3>
+      <p>Plataforma académica con API y web para gestionar sílabos y convertir documentos PDF a Markdown.</p>
+      <a href="https://github.com/ElkinDelgado25/EduPlain_Backend">Backend</a> · <a href="https://github.com/ElkinDelgado25/Eduplain_Frontend">Frontend</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ElkinDelgado25/PronoStats-backend">PronoStats</a></h3>
+      <p>Plataforma para explorar estadísticas deportivas y generar pronósticos basados en datos históricos.</p>
+      <a href="https://github.com/ElkinDelgado25/PronoStats-backend">Backend</a> · <a href="https://github.com/ElkinDelgado25/PronoStats-Frontend">Frontend</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ElkinDelgado25/demo-hackAIthon-backend">SecureMax</a></h3>
+      <p>Solución con IA para auditar siniestros vehiculares, con una API y un dashboard para revisar resultados.</p>
+      <a href="https://github.com/ElkinDelgado25/demo-hackAIthon-backend">Backend</a> · <a href="https://github.com/ElkinDelgado25/demo-hackAIthon-frontend">Frontend</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ElkinDelgado25/Buildathon_Project">Buildathon · DevSecOps</a></h3>
+      <p>Agente que analiza hallazgos de seguridad SAST/DAST y registra decisiones y evidencias de auditoría.</p>
+      <a href="https://github.com/ElkinDelgado25/Buildathon_Project">Ver repositorio</a>
+    </td>
+  </tr>
+</table>

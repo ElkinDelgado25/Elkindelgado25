@@ -1,7 +1,10 @@
 <table width="840">
   <tr>
     <td width="65%" align="left" valign="middle">
-      <h1>Hi, I'm<br /><em>Elkin Delgado</em></h1>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-title-dark.svg" />
+        <img src="./assets/profile-title-light.svg" width="430" alt="Hi, I'm Elkin Delgado" />
+      </picture>
       <h3>AI Backend Developer</h3>
       <a href="https://www.linkedin.com/in/elkin-delgado-licoa-b79591249/">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />

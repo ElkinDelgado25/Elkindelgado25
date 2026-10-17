@@ -57,26 +57,22 @@
 <table width="840">
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/ElkinDelgado25/EduPlain_Backend">EduPlain</a></h3>
-      <p>Plataforma académica con API y web para gestionar sílabos y convertir documentos PDF a Markdown.</p>
-      <a href="https://github.com/ElkinDelgado25/EduPlain_Backend">Backend</a> · <a href="https://github.com/ElkinDelgado25/Eduplain_Frontend">Frontend</a>
+      <h3><a href="https://github.com/ElkinDelgado25/Moodle_Homework_assignment">Moodle MCP</a></h3>
+      <p>Conecta Moodle con un agente para consultar tareas, descargar anexos y preparar documentos desde una conversación.</p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/ElkinDelgado25/PronoStats-backend">PronoStats</a></h3>
-      <p>Plataforma para explorar estadísticas deportivas y generar pronósticos basados en datos históricos.</p>
-      <a href="https://github.com/ElkinDelgado25/PronoStats-backend">Backend</a> · <a href="https://github.com/ElkinDelgado25/PronoStats-Frontend">Frontend</a>
+      <h3><a href="https://github.com/ElkinDelgado25/Bot_Rosetta_Stone">Rosetta Stone Bot</a></h3>
+      <p>Bot en Python para gestionar el seguimiento de lecciones de Rosetta Stone desde la terminal o una interfaz web.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/ElkinDelgado25/demo-hackAIthon-backend">SecureMax</a></h3>
-      <p>Solución con IA para auditar siniestros vehiculares, con una API y un dashboard para revisar resultados.</p>
-      <a href="https://github.com/ElkinDelgado25/demo-hackAIthon-backend">Backend</a> · <a href="https://github.com/ElkinDelgado25/demo-hackAIthon-frontend">Frontend</a>
+      <h3><a href="https://github.com/ElkinDelgado25/Matriculacion_Xisce_Uleam">Matriculación XISCE ULEAM</a></h3>
+      <p>Panel local para consultar materias, vigilar cupos y ejecutar matrículas en XISCE con Docker.</p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/ElkinDelgado25/Buildathon_Project">Buildathon · DevSecOps</a></h3>
-      <p>Agente que analiza hallazgos de seguridad SAST/DAST y registra decisiones y evidencias de auditoría.</p>
-      <a href="https://github.com/ElkinDelgado25/Buildathon_Project">Ver repositorio</a>
+      <h3><a href="https://github.com/Erickelrojo-22/campus-quest-app">Campus Quest</a></h3>
+      <p>App Android que convierte la exploración del campus en misiones tipo RPG, con escaneo QR, puntos e insignias.</p>
     </td>
   </tr>
 </table>

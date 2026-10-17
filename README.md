@@ -1,4 +1,4 @@
-<table width="100%">
+<table width="840">
   <tr>
     <td width="65%" align="left" valign="middle">
       <h1>Hi, I'm<br /><em>𝑬𝒍𝒌𝒊𝒏 𝑫𝒆𝒍𝒈𝒂𝒅𝒐</em></h1>
